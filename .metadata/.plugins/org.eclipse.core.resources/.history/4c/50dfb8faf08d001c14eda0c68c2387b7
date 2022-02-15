@@ -1,0 +1,9 @@
+package dbviajar;
+
+public class agencia {
+
+	private static final String url = "jdbc://localhost:8081/viajar";
+	private static final String user = "root";
+	private static final String password = "root";
+			
+}

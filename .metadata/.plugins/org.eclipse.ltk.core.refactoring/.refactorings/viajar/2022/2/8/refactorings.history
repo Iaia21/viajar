@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;dbviajar.agencia&apos; to &apos;AgenciaConnection&apos;&#x0D;&#x0A;- Original project: &apos;viajar&apos;&#x0D;&#x0A;- Original element: &apos;dbviajar.agencia&apos;&#x0D;&#x0A;- Renamed element: &apos;dbviajar.AgenciaConnection&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;agencia&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;dbviajar{agencia.java[agencia" matchStrategy="1" name="AgenciaConnection" qualified="false" references="true" similarDeclarations="false" stamp="1644883980039" textual="false" version="1.0"/>
+</session>

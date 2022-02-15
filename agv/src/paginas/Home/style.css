@@ -1,0 +1,32 @@
+.container h1 {
+    text-align: center;
+     }
+    
+    .container form {
+    align-items: baseline;
+    
+    }
+    .jumbotron-fluid {
+    background-color: #dd4e4e;
+    
+    }
+    
+    .jumbotron {
+    background-color: #000080;
+    
+    }
+    
+    .seletor {
+    background-color: #000080;
+    text-align: center;
+    }
+    
+    .center {
+    text-align: center;
+    text-decoration-color: black;
+    }
+    .nav-link {
+    font-style: black;
+    
+    }
+    

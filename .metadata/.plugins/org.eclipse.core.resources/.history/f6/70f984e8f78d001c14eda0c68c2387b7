@@ -1,0 +1,50 @@
+package dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.util.List;
+
+import dbviajar.AgenciaConnection;
+import model.Cliente;
+
+public class ClienteDao implements CRUD {
+	
+	private static Connection connection = AgenciaConnection.createConnection(); 
+	private static String sql;
+	
+	public static void create(Cliente cliente) {
+		sql = "INSERT INTO clientes VALUES (null, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+		
+		try {
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			
+		} catch(SQLException e) {
+			
+			
+		} 
+		
+		
+		try {} catch() {} 
+	}
+	
+	public static void delete(int clienteId) {
+		
+	}
+	
+	public static List<Cliente> find(String pesquisa) {
+		return null;
+		
+	}
+	
+	public static Cliente findByPk(int clienteId) {
+		return null;
+		
+	}
+	
+	public static void update(Cliente cliente) {
+		
+		
+	}
+}
+	
+

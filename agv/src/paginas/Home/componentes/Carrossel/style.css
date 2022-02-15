@@ -1,0 +1,7 @@
+.carousel-item {
+transition-timing-function: 2s ease;
+}
+
+.carousel-item img{
+    border-image-width: 50%;
+}

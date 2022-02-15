@@ -1,0 +1,63 @@
+.texto-info {
+text-align: center;
+
+}
+
+.contato {
+text-align: center;
+
+}
+.table {
+border: 0;
+width: 100%;
+padding: 40;
+align-items: center;
+}
+
+.table1 {
+width:50%;
+text-align: center;
+    
+}
+
+.table1 img {
+width:100px;
+text-align: center;
+}
+
+.table2 {
+width:100%;
+text-align: center;
+}
+
+.table2 img {
+width:100px;
+}
+
+.table3 {
+width:50%;
+text-align: center;
+}
+
+.table3 img {
+width:100px;
+vertical-align:center; 
+text-align: center;
+}
+
+.email {
+border-image-width: 50px;
+width:50px;
+text-align: center;
+}
+
+.sac {
+width:100px;
+text-align: center;
+}
+
+.area {
+text-align: center;
+margin:10%;
+width: 400px;
+}
